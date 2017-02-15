@@ -4,6 +4,9 @@ Demo webapp for Node-RED application using Watson Language Translator
 -This sample application uses the Language  Translator service, Node-RED, and AngularJS for a Bluemix app that translates user-supplied text  
 -The Node-RED flow takes a message, gets the sentiment score for it, and then uses Watson to translate the message. 
 - 
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ValerieLampkin/LanguageTranslatorSentimentDemo/)
+
+
 -
 -IBM DOES NOT WARRANT OR REPRESENT THAT THE CODE PROVIDED IS COMPLETE OR UP-TO-DATE.  IBM DOES NOT WARRANT,  REPRESENT OR IMPLY RELIABILITY, SERVICEABILITY OR FUNCTION OF THE CODE.  IBM IS UNDER NO OBLIGATION TO UPDATE  CONTENT NOR PROVIDE FURTHER SUPPORT.  
 -
